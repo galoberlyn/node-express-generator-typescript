@@ -1,6 +1,6 @@
 {
   "name": "node-express-generator-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A TypeScript version of express-generator --no-view",
   "author": "Galo Berlyn Garlejo",
   "scripts": {
