@@ -6,5 +6,12 @@ To have a fresh boilerplate of express-generator using TypeScript
 
 Easy to use and start your API server with express js
 
+## How to use
+ - For windows -> run npm run cleanuo-windows
+ - For mac/linux -> rm -r .git && echo 'cleanup done', happy hacking!
+ 
+We clean the repo files because we didn't setup the right practice yet.
 
-© Galo Garlejo galo@penbrothers.com
+Have fun!
+
+© Galo Garlejo gbgarlejo@gmail.com

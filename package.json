@@ -23,5 +23,13 @@
     "ts-node": "^8.5.4",
     "typescript": "^3.7.2"
   },
+  "keywords": [
+    "nodejs",
+    "node",
+    "express",
+    "typescript",
+    "express typescript",
+    "express-typescript"
+  ],
   "license": "(MIT)"
 }
