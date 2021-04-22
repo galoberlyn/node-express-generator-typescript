@@ -6,7 +6,9 @@
   "scripts": {
     "start": "node ./dist/bin/www",
     "dev": "nodemon ./bin/www.ts",
-    "build": "tsc -p ."
+    "build": "tsc -p .",
+    "cleanup-windows": "rm -r .git",
+    "cleanup-unix": "rm -rf .git"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
