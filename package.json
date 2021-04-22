@@ -1,6 +1,6 @@
 {
   "name": "node-express-generator-typescript",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A TypeScript version of express-generator --no-view",
   "author": "Galo Berlyn Garlejo",
   "scripts": {
@@ -23,5 +23,5 @@
     "ts-node": "^8.5.4",
     "typescript": "^3.7.2"
   },
-  "license": "MIT"
+  "license": "(MIT)"
 }
